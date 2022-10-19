@@ -73,7 +73,7 @@ public class Processor {
                     " Television. The original executive producers were Kevin S. Bright, Kauffman, and Crane.\n" +
                     "Kauffman and Crane began developing Friends under the working title Insomnia Cafe between November and December 1993. " +
                     "They presented the idea to Bright, and together they pitched a seven-page treatment of the show to NBC. After several script" +
-                    " rewrites and changes, including title changes to Six of One[2] and Friends Like Us, the series was finally named Friends.[");
+                    " rewrites and changes, including, title changes to Six of One[2] and Friends Like Us, the series was finally named Friends.[");
             writer.close();
             this.response += "Successfully wrote to the file.";
         }
